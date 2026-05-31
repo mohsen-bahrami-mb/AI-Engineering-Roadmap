@@ -659,7 +659,7 @@ This section summarizes the entire AI Engineer roadmap visually. **(Click on ima
 
 ## AI Engineer Knowledge Graph
 
-[![AI Engineer Knowledge Graph](docs/diagrams/AI-Engineer-Knowledge-Graph.png)](docs/diagrams/AI-Engineer-Knowledge-Graph.md)
+[![AI Engineer Knowledge Graph](docs/diagrams/ai-engineer-knowledge-graph.png)](docs/diagrams/ai-engineer-knowledge-graph.md)
 
 ## How LLMs Actually Work
 
