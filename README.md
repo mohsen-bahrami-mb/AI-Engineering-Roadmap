@@ -11,7 +11,7 @@
 
 ---
 
-<a href="docs/diagrams/ai-engineer-roadmap.svg"><img src="docs/diagrams/ai-engineer-roadmap.svg" alt="AI Engineer Roadmap" style="max-width:30%;display:block;margin:auto;" width="30%"></a>
+<a href="docs/diagrams/ai-engineer-roadmap.svg"><img src="docs/diagrams/ai-engineer-roadmap.svg" alt="AI Engineer Roadmap" style="max-width:30%;display:block;margin:auto;" width="40%"></a>
 
 ---
 
@@ -683,20 +683,20 @@ This section summarizes the entire AI Engineer roadmap visually. **(Click on ima
 
 ## MCP Architecture
 
-[<img src="docs/diagrams/MCP-Architecture.png" alt="MCP Architecture" width="50%"/>](docs/diagrams/MCP-Architecture.md)
+[<img src="docs/diagrams/MCP-Architecture.png" alt="MCP Architecture" width="70%"/>](docs/diagrams/MCP-Architecture.md)
 
 ## Prompt Engineering Map
 
-[<img src="docs/diagrams/Prompt-Engineering-Map.png" alt="Prompt Engineering Map" width="50%"/>](docs/diagrams/Prompt-Engineering-Map.md)
+[<img src="docs/diagrams/Prompt-Engineering-Map.png" alt="Prompt Engineering Map" width="70%"/>](docs/diagrams/Prompt-Engineering-Map.md)
 
 ## Context Engineering Map
 
 
-[<img src="docs/diagrams/Context-Engineering-Map.png" alt="Context Engineering Map" width="50%"/>](docs/diagrams/Context-Engineering-Map.md)
+[<img src="docs/diagrams/Context-Engineering-Map.png" alt="Context Engineering Map" width="70%"/>](docs/diagrams/Context-Engineering-Map.md)
 
 ## AI Safety Architecture
 
-[<img src="docs/diagrams/AI-Safety-Architecture.png" alt="AI Safety Architecture" width="20%"/>](docs/diagrams/AI-Safety-Architecture.md)
+[<img src="docs/diagrams/AI-Safety-Architecture.png" alt="AI Safety Architecture" width="30%"/>](docs/diagrams/AI-Safety-Architecture.md)
 
 ## LLM Evaluation Pipeline
 
