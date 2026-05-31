@@ -11,7 +11,7 @@
 
 ---
 
-<a href="docs/diagrams/ai-engineer-roadmap.svg"><img src="docs/diagrams/ai-engineer-roadmap.svg" alt="AI Engineer Roadmap" style="max-width:30%;display:block;margin:auto;"></a>
+<a href="docs/diagrams/ai-engineer-roadmap.svg"><img src="docs/diagrams/ai-engineer-roadmap.svg" alt="AI Engineer Roadmap" style="max-width:30%;display:block;margin:auto;" width="30%"></a>
 
 ---
 
@@ -675,27 +675,28 @@ This section summarizes the entire AI Engineer roadmap visually. **(Click on ima
 
 ## Agent Architecture
 
-<a href="docs/diagrams/Agent-Architecture.md"><img src="docs/diagrams/Agent-Architecture.png" alt="Agent Architecture" style="max-width:50%;display:block;margin:auto;"></a>
+[<img src="docs/diagrams/Agent-Architecture.png" alt="Agent Architecture" width="50%"/>](docs/diagrams/Agent-Architecture.md)
 
 ## Multi-Agent System
 
-<a href="docs/diagrams/Multi-Agent-System.md"><img src="docs/diagrams/Multi-Agent-System.png" alt="Multi-Agent System" style="max-width:50%;display:block;margin:auto;"></a>
+[<img src="docs/diagrams/Multi-Agent-System.png" alt="Multi-Agent System" width="50%"/>](docs/diagrams/Multi-Agent-System.md)
 
 ## MCP Architecture
 
-<a href="docs/diagrams/MCP-Architecture.md"><img src="docs/diagrams/MCP-Architecture.png" alt="MCP Architecture" style="max-width:50%;display:block;margin:auto;"></a>
+[<img src="docs/diagrams/MCP-Architecture.png" alt="MCP Architecture" width="50%"/>](docs/diagrams/MCP-Architecture.md)
 
 ## Prompt Engineering Map
 
-<a href="docs/diagrams/Prompt-Engineering-Map.md"><img src="docs/diagrams/Prompt-Engineering-Map.png" alt="Prompt Engineering Map" style="max-width:50%;display:block;margin:auto;"></a>
+[<img src="docs/diagrams/Prompt-Engineering-Map.png" alt="Prompt Engineering Map" width="50%"/>](docs/diagrams/Prompt-Engineering-Map.md)
 
 ## Context Engineering Map
 
-<a href="docs/diagrams/Context-Engineering-Map.md"><img src="docs/diagrams/Context-Engineering-Map.png" alt="Context Engineering Map" style="max-width:50%;display:block;margin:auto;"></a>
+
+[<img src="docs/diagrams/Context-Engineering-Map.png" alt="Context Engineering Map" width="50%"/>](docs/diagrams/Context-Engineering-Map.md)
 
 ## AI Safety Architecture
 
-<a href="docs/diagrams/AI-Safety-Architecture.md"><img src="docs/diagrams/AI-Safety-Architecture.png" alt="AI Safety Architecture" style="max-width:20%;display:block;margin:auto;"></a>
+[<img src="docs/diagrams/AI-Safety-Architecture.png" alt="AI Safety Architecture" width="20%"/>](docs/diagrams/AI-Safety-Architecture.md)
 
 ## LLM Evaluation Pipeline
 
@@ -703,7 +704,7 @@ This section summarizes the entire AI Engineer roadmap visually. **(Click on ima
 
 ## Production LLM Lifecycle
 
-<a href="docs/diagrams/Production-LLM-Lifecycle.md"><img src="docs/diagrams/Production-LLM-Lifecycle.png" alt="Production LLM Lifecycle" style="max-width:20%;display:block;margin:auto;"></a>
+[<img src="docs/diagrams/Production-LLM-Lifecycle.png" alt="Production LLM Lifecycle" width="20%"/>](docs/diagrams/Production-LLM-Lifecycle.md)
 
 ## Complete AI Engineer Roadmap
 
