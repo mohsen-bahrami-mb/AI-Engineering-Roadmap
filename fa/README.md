@@ -6,8 +6,12 @@
 
 ## 🌍 زبان‌ها
 
-- 🇺🇸 English → `README.md`
+- [🇺🇸 English → `README.md`](../README.md)
 - 🇮🇷 فارسی (این فایل)
+
+---
+
+<a href="../docs/diagrams/ai-engineer-roadmap.svg"><img src="../docs/diagrams/ai-engineer-roadmap.svg" alt="AI Engineer Roadmap" style="max-width:30%;display:block;margin:auto;"></a>
 
 ---
 
@@ -465,7 +469,7 @@ Generation
 
 ---
 
-# MCP
+# MCP (Model Context Protocol)
 
 ## اجزای اصلی
 
@@ -651,6 +655,65 @@ Generation
 
 ---
 
+# دانش بصری با نمودار (نقشه راه مهندس هوش مصنوعی)
+
+این بخش، کل نقشه راه مهندس هوش مصنوعی را به صورت تصویری خلاصه می‌کند. **(برای دیدن تصاویر در اندازه بزرگتر، روی آنها کلیک کنید)**
+
+## AI Engineer Knowledge Graph
+
+[![AI Engineer Knowledge Graph](../docs/diagrams/AI-Engineer-Knowledge-Graph.png)](../docs/diagrams/AI-Engineer-Knowledge-Graph.md)
+
+## How LLMs Actually Work
+
+[![How LLMs Actually Work](../docs/diagrams/How-LLMs-Actually-Work.png)](../docs/diagrams/How-LLMs-Actually-Work.md)
+
+## Embedding + Vector Database + RAG
+
+[![Embedding + Vector Database + RAG](../docs/diagrams/Embedding+Vector-Database+RAG.png)](../docs/diagrams/Embedding+Vector-Database+RAG.md)
+
+## RAG vs Fine-Tuning
+
+[![RAG vs Fine-Tuning](../docs/diagrams/RAG-vs-Fine-Tuning.png)](../docs/diagrams/RAG-vs-Fine-Tuning.md)
+
+## Agent Architecture
+
+<!-- [![Agent Architecture](../docs/diagrams/Agent-Architecture.png)](../docs/diagrams/Agent-Architecture.md) -->
+[<a href="../docs/diagrams/Agent-Architecture.md"><img src="../docs/diagrams/Agent-Architecture.png" alt="Agent Architecture" style="max-width:50%;display:block;margin:auto;"></a>]
+
+## Multi-Agent System
+
+<a href="../docs/diagrams/Multi-Agent-System.md"><img src="../docs/diagrams/Multi-Agent-System.png" alt="Multi-Agent System" style="max-width:50%;display:block;margin:auto;"></a>
+
+## MCP Architecture
+
+<a href="../docs/diagrams/MCP-Architecture.md"><img src="../docs/diagrams/MCP-Architecture.png" alt="MCP Architecture" style="max-width:50%;display:block;margin:auto;"></a>
+
+## Prompt Engineering Map
+
+[<a href="../docs/diagrams/Prompt-Engineering-Map.md"><img src="../docs/diagrams/Prompt-Engineering-Map.png" alt="Prompt Engineering Map" style="max-width:50%;display:block;margin:auto;"></a>]
+
+## Context Engineering Map
+
+[<a href="../docs/diagrams/Context-Engineering-Map.md"><img src="../docs/diagrams/Context-Engineering-Map.png" alt="Context Engineering Map" style="max-width:50%;display:block;margin:auto;"></a>]
+
+## AI Safety Architecture
+
+[<a href="../docs/diagrams/AI-Safety-Architecture.md"><img src="../docs/diagrams/AI-Safety-Architecture.png" alt="AI Safety Architecture" style="max-width:20%;display:block;margin:auto;"></a>]
+
+## LLM Evaluation Pipeline
+
+[![LLM Evaluation Pipeline](../docs/diagrams/LLM-Evaluation-Pipeline.png)](../docs/diagrams/LLM-Evaluation-Pipeline.md)
+
+## Production LLM Lifecycle
+
+[<a href="../docs/diagrams/Production-LLM-Lifecycle.md"><img src="../docs/diagrams/Production-LLM-Lifecycle.png" alt="Production LLM Lifecycle" style="max-width:20%;display:block;margin:auto;"></a>]
+
+## Complete AI Engineer Roadmap
+
+[![Complete AI Engineer Roadmap](../docs/diagrams/Complete-AI-Engineer-Roadmap.png)](../docs/diagrams/Complete-AI-Engineer-Roadmap.md)
+
+---
+
 # توصیه نهایی
 
 اکثر موقعیت‌های شغلی AI Engineer امروزی درباره ساخت GPT از صفر نیستند.
@@ -666,11 +729,6 @@ Generation
 - Production Systems
 
 اگر این‌ها را عمیق یاد بگیری، ورود به بازار کار AI بسیار ساده‌تر خواهد شد.
-
-# Visual Knowledge Graphs (AI Engineer Roadmap)
-
-This section summarizes the entire AI Engineer roadmap visually.
-
 
 ---
 

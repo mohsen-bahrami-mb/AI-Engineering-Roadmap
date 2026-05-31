@@ -1,5 +1,3 @@
-# AI Engineer Knowledge Graph
-
 ```mermaid
 graph TD
 
